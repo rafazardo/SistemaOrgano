@@ -1,4 +1,4 @@
-import './Banner.css'
+import './index.css'
 
 export function Banner() {
     return (
@@ -7,3 +7,5 @@ export function Banner() {
         </header>
     )
 }
+
+export default Banner;
